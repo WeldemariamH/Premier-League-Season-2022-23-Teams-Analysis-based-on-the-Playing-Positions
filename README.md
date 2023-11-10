@@ -12,17 +12,18 @@ This project involves the analysis of football player data sourced from Kaggle. 
 - Separate data based on playing positions
 - Merge data to create separate files for each playing position
 
- 3. Further Processing in Excel
+ 3. **Further Processing in Excel**
 - Exported data from Python to Excel
 - Continued preprocessing in Excel:
   - Deleted unnecessary columns
   - Ensured the files contain only relevant data for each playing position
 
- Analysis and Visualization in Power BI
- 4. Importing Data into Power BI
+ # Analysis and Visualization in Power BI
+
+ 4. **Importing Data into Power BI**
 - Imported cleaned and processed data files into Power BI for detailed analysis
 
- 5. Creating Visualizations
+ 5. **Creating Visualizations**
 - Created six pages in Power BI, each dedicated to analyzing teams performance in specific playing position:
   1. Goal Keeping Position
   2. Defending
@@ -31,7 +32,7 @@ This project involves the analysis of football player data sourced from Kaggle. 
   5. Attacking Midfield
   6. Attacking
   
- 6. Visualizations
+ 6. **Visualizations**
 - Designed various visualizations on each page to extract valuable insights on Team-wise performance in each Position
 
 # Repository Structure
