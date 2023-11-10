@@ -2,12 +2,12 @@
 Overview
 This project involves the analysis of football player data sourced from Kaggle. The data includes information about players, their performance, and various attributes related to different playing positions.
 
-# Data Processing Steps
-# 1. Data Download and Initial Exploration
+ Data Processing Steps
+ 1. Data Download and Initial Exploration
 - Download raw CSV files from Kaggle
 - Import files into Python for initial exploration, cleaning, and preprocessing
   
-# 2. Initial Data Exploration and Cleaning in Python
+ 2. Initial Data Exploration and Cleaning in Python
 - Change column names for clarity
 - Separate data based on playing positions
 - Merge data to create separate files for each playing position
@@ -18,11 +18,11 @@ This project involves the analysis of football player data sourced from Kaggle. 
   - Deleted unnecessary columns
   - Ensured the files contain only relevant data for each playing position
 
-# Analysis and Visualization in Power BI
-# 4. Importing Data into Power BI
+ Analysis and Visualization in Power BI
+ 4. Importing Data into Power BI
 - Imported cleaned and processed data files into Power BI for detailed analysis
 
-# 5. Creating Visualizations
+ 5. Creating Visualizations
 - Created six pages in Power BI, each dedicated to analyzing teams performance in specific playing position:
   1. Goal Keeping Position
   2. Defending
@@ -31,26 +31,26 @@ This project involves the analysis of football player data sourced from Kaggle. 
   5. Attacking Midfield
   6. Attacking
   
-# 6. Visualizations
+ 6. Visualizations
 - Designed various visualizations on each page to extract valuable insights on Team-wise performance in each Position
 
-## Repository Structure
+ Repository Structure
 - `Final preprocessed datas/`: Contains the raw and processed data files.
 - `Python file/`: Python scripts for data processing.
 - `Raw datas/`: Excel files with further preprocessing.
 - `powerbi Visualization/`: Power BI files with visualizations.
 
-## How to Use
+ How to Use
 To replicate or extend this analysis, follow these steps:
 1.Data Exploration, Cleaning, and Preprocessing Execute the Python script EPL 2022_23 Preprocessed data.py in a Jupyter environment
-2.Power BI Analysis Import the Final preprocessed datas.xlsx file into Power BI. Open the `powerbi Visualization/` file to explore the visualizations and analyses
+2.Power BI Analysis Import the Final 'preprocessed datas.xlsx' file into Power BI. Open the `powerbi Visualization/` file to explore the visualizations and analyses
 
-## Getting Started
+ Getting Started
 These instructions will help you set up the project on your local machine for development and analysis purposes
 Clone the repository.
 Follow the usage instructions above.
 
-## Acknowledgement
+ Acknowledgement
 Special thanks to the Kaggle for providing the original dataset
 
 
