@@ -49,9 +49,8 @@ To replicate or extend this analysis, follow these steps:
 
 # Getting Started
 These instructions will help you set up the project on your local machine for development and analysis purposes
-
-Clone the repository.
-Follow the usage instructions above.
+Clone the repository
+Follow the usage instruction above
 
 # Acknowledgement
 Special thanks to the Kaggle for providing the original dataset
