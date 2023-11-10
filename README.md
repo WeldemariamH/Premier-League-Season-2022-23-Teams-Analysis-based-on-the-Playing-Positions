@@ -41,6 +41,11 @@ This project involves the analysis of football player data sourced from Kaggle. 
 - `Raw datas/`: Excel files with further preprocessing.
 - `powerbi Visualization/`: Power BI files with visualizations.
 
+# How to Use 
+to replicate or extend this analysis, follow these steps:
+1.Data Exploration, Cleaning and Preprocessing: Execute the python script EPL 2022_23 'Python file/' in a Jupyter environment
+2.PowerBi Analysis: Import the 'Final preprocessed datas/' file to the PowerBi and open the 'Powerbi Visualization/' file to explore the visualization and analysis
+
 # How to Use
 To replicate or extend this analysis, follow these steps:
 
