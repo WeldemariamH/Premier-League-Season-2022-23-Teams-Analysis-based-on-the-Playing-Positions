@@ -1,4 +1,4 @@
-# Premier-League-2022-23-Season-Teams-Performance Analysis-based-on-the-Playing-Positions
+# Premier League 2022-23 Season Teams Performance Analysis based on the Playing Positions
 # Overview
 This project involves the analysis of football player data sourced from Kaggle. The data includes information about players, their performance, and various attributes related to different playing positions.
 
